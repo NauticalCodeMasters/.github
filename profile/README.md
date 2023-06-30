@@ -1,4 +1,4 @@
-## Welcome
+## Nautical Code Masters
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/138077881?s=400&u=43adfe3b3841e15a21850de967eef88d0742872b&v=4)">
